@@ -1,4 +1,3 @@
-
 #header-nav{
 	text-align:center;
 	background-color:lightgray;	
@@ -70,7 +69,6 @@ display:none;}
     min-height: 400px;
   }
 }
-
 @media (max-width: 767px) {
   .col-sm-12 {
     float: left;
@@ -109,7 +107,6 @@ margin-top:-30px;
 #nav-list a span{
 	font-size:1.8em;
 }
-
 h1{
 color:white;
 text-align:center;
